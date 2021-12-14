@@ -1,0 +1,16 @@
+{
+  "name": "anallang",
+  "version": "1.0.8",
+  "description": "An esoteric joke language based on the 🍑🍆 emojis.",
+  "main": "index.js",
+  "bin": {
+    "anallang": "anallang.js",
+    "analtranslate": "translate.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
