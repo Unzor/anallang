@@ -19,7 +19,7 @@ Translate JavaScript to Anallang:
 # Programmatic API
 To use the programmatical API, `require()` the anallang module.
 ```js
-var anallang = require('./anallang')
+var anallang = require('anallang')
 ```
 
 There are many functions, and some can be different than others.
