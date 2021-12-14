@@ -34,7 +34,7 @@ console.log(res);
 })
 ```
 
-`anallang::translateStringToAnalLang`: Translates file to AnalLang code.
+`anallang::translateFileToAnalLang`: Translates file to AnalLang code.
 
 ### Example:
 ```js
