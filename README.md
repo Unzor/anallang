@@ -38,7 +38,7 @@ console.log(res);
 
 ### Example:
 ```js
-anallang.translateFileToAnalLang(<file>.anal).then((res) => {
+anallang.translateFileToAnalLang(<file>.js).then((res) => {
 console.log(res);
 })
 ```
